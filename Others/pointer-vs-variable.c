@@ -8,19 +8,9 @@
  * Return: size of pointer one and variable two
  */
  
- char size_one(char *one)
- {
-     return sizeof(one);
- }
- 
- char size_two(char two[])
- {
-    return sizeof(two);
- }
- 
  int main(){
-     char *one = "asondubuisiorji1";
-     char two[] = "asondubuisiorji1";
+     char *one = "asoorji123";
+     char two[] = "asoorji123";
      
      printf("Size of One (Pointer): %d\n", sizeof(one));
      printf("Size of Two (Variable): %d", sizeof(two));
