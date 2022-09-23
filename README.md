@@ -4,6 +4,6 @@
 
 ## Resource Links
 
-[03-pointers-arrays-strings](https://www.youtube.com/watch?v=hyyGGVhssgo)
+[02-pointers-arrays-strings](https://www.youtube.com/watch?v=hyyGGVhssgo)
 
 ## My Thoughts
