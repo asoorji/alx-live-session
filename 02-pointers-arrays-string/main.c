@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-   char *str = "I am a string";
+   char *str = "I am Orji";
 
    stringMan(str);
 
