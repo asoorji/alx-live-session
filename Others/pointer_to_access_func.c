@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/**
+*m is stored locally and can only be accessed through a pointer;
+*/
+
 int change_val (int *m) {
     *m = 402;
 }
