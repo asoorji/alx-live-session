@@ -2,6 +2,8 @@
 
 ## Resource Links
 
+[Cohort 9 Live Learning Sessions](https://www.youtube.com/playlist?list=PLyYhUzEei28OVrJhKuRkUGgUXnjrxd4XU)
+
 [02-pointers-arrays-strings](https://www.youtube.com/watch?v=hyyGGVhssgo)
 
 [03-argc & argv](https://www.youtube.com/watch?v=K2urzx-5M_0)
